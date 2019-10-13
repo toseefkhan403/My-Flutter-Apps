@@ -1,16 +1,4 @@
-# arctic_pups
+The branch chat-stories is the Novela app that is now released on the Play Store : https://play.google.com/store/apps/details?id=com.pandog.arctic_pups
 
-Convenience application for pet parents.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+*Other branches contain the prototype of different apps.*
+The nimses-update branch is the clone of the new *Nimses* app. I made a clone of this particular app in flutter because of its elegant UI.
